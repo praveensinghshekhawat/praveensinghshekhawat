@@ -38,8 +38,8 @@ and here
 - 🤔 <b>Exploring:</b> ML Kit, Jetpack Compose
 - 📫 <b>Getting better at:</b> Kotlin, App optimization
 - 🌱 <b>Hobby:</b> Problem Solving, Cricket, Gaming  
-- 📫 <b>How to reach me:</b>  [LinkedIn](https://www.linkedin.com/in/praveensinghshekhawat)
-<!--- 💬 <b>Other link:<b> [Play Store Projects](https://play.google.com/store/apps/dev?id=8253516072134177027)-->
+- 📫 <b>How to reach me:</b>  [LinkedIn](https://www.linkedin.com/in/praveensinghshekhawat)  
+
 </br>
  “Code hard, ship fast, and never stop learning.”</br>
             Happy coding! 👨🏽‍💻
