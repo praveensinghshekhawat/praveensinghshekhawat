@@ -38,7 +38,7 @@ and here
 - 🤔 <b>Exploring:</b> ML Kit, Jetpack Compose
 - 📫 <b>Getting better at:</b> Kotlin, App optimization
 - 🌱 <b>Hobby:</b> Problem Solving, Cricket, Gaming  
-- 📫 <b>How to reach me:</b>  [LinkedIn](linkedin.com/in/praveen-shekhawat8)  
+- 📫 <b>How to reach me:</b>  [LinkedIn](https://www.linkedin.com/in/praveen-shekhawat8)  
 
 </br>
  “Code hard, ship fast, and never stop learning.”</br>
